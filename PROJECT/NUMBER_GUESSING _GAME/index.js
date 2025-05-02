@@ -27,7 +27,7 @@ while(running){
         else{
             window.alert(`CORRECT! The answer was ${answer}. It took you ${attempt} attemps`)
             running = false
-        }
+        }  
     }
     
     
